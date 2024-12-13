@@ -1,0 +1,18 @@
+{
+  "id": "greedy_article_2",
+  "title": "Advanced Greedy Algorithm Problems",
+  "description": "Explore more complex greedy algorithm problems such as Huffman Coding and Fractional Knapsack.",
+  "data": "### Advanced Greedy Algorithms\nIn this article, we discuss advanced greedy algorithm problems that are commonly used in interviews and competitive programming.\n\n#### Huffman Coding\nHuffman coding is a lossless data compression algorithm used to assign variable-length codes to characters based on their frequencies.",
+  "problems": [
+    {
+      "id": "greedy_problem_3",
+      "name": "Huffman Coding",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "greedy_problem_4",
+      "name": "Fractional Knapsack Problem",
+      "difficulty": "Medium"
+    }
+  ]
+}

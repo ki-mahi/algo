@@ -1,11 +1,11 @@
 {
   "dp": [
-    "https://gist.githubusercontent.com/ki-mahi/b1233c417c06f7c90a1483fbe3588520/raw/6099327b0fcb5e2c31958a874880998471269488/dp1.json",
-    "https://gist.githubusercontent.com/ki-mahi/b1233c417c06f7c90a1483fbe3588520/raw/6099327b0fcb5e2c31958a874880998471269488/dp2.json"
+    "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/dp/dp_basics.json",
+    "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/dp/Advanced.json"
   ],
   "greedy": [
-    "https://gist.githubusercontent.com/ki-mahi/b1233c417c06f7c90a1483fbe3588520/raw/6e78ae272afd7196c725ffbb15199979be62d3d8/g1.json",
-    "https://gist.githubusercontent.com/ki-mahi/b1233c417c06f7c90a1483fbe3588520/raw/6099327b0fcb5e2c31958a874880998471269488/g2.json"
+    "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/greedy/gd1.json",
+    "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/greedy/gd2.json"
   ],
   "backtracking": [
     "https://gist.githubusercontent.com/ki-mahi/b1233c417c06f7c90a1483fbe3588520/raw/7722538e0884baed6bc4f12893f16505d6d52c62/bk1.json",

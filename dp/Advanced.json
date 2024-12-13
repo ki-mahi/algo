@@ -1,0 +1,18 @@
+{
+  "id": "dp_article_2",
+  "title": "Advanced Dynamic Programming Techniques",
+  "description": "Explore more advanced concepts in Dynamic Programming including memoization, tabulation, and optimization techniques.",
+  "data": "### Advanced Dynamic Programming\nIn this article, we delve into more advanced DP techniques like memoization, tabulation, and state compression.\n\n#### Memoization\nMemoization is a technique used to optimize recursive solutions by storing previously computed results.\n\n#### Tabulation\nTabulation is the bottom-up approach where we solve the problem by filling a table with computed values.",
+  "problems": [
+    {
+      "id": "dp_problem_3",
+      "name": "Longest Common Subsequence",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "dp_problem_4",
+      "name": "Matrix Chain Multiplication",
+      "difficulty": "Hard"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dp_article_1",
+  "title": "Dynamic Programming Basics",
+  "description": "Introduction to Dynamic Programming with examples.",
+  "data": "### Dynamic Programming\nDynamic Programming (DP) is a method for solving complex problems by breaking them down into simpler subproblems.",
+  "problems": [
+    {
+      "id": "dp_problem_1",
+      "name": "Fibonacci Sequence",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "dp_problem_2",
+      "name": "Knapsack Problem",
+      "difficulty": "Medium"
+    }
+  ]
+}

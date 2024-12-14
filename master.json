@@ -3,13 +3,5 @@
     "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/dp/dp_basics.json",
     "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/dp/Advanced.json",
     "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/graph/g1.json"
-  ],
-  "greedy": [
-    "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/greedy/gd1.json",
-    "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/greedy/gd2.json"
-  ],
-  "backtracking": [
-    "https://gist.githubusercontent.com/ki-mahi/b1233c417c06f7c90a1483fbe3588520/raw/7722538e0884baed6bc4f12893f16505d6d52c62/bk1.json",
-    "https://gist.githubusercontent.com/ki-mahi/b1233c417c06f7c90a1483fbe3588520/raw/7722538e0884baed6bc4f12893f16505d6d52c62/bk2.json"
   ]
 }

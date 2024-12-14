@@ -1,7 +1,8 @@
 {
   "dp": [
     "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/dp/dp_basics.json",
-    "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/dp/Advanced.json"
+    "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/dp/Advanced.json",
+    "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/graph/g1.json"
   ],
   "greedy": [
     "https://raw.githubusercontent.com/ki-mahi/algo/refs/heads/main/greedy/gd1.json",
